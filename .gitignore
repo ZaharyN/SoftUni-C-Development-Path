@@ -1,0 +1,14 @@
+# Ignore any files in /bin and /obj Folders
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+*.zip
+node_modules
+package-lock.json
+*.pptx
+*.ppt
+*.docx
+*.doc
