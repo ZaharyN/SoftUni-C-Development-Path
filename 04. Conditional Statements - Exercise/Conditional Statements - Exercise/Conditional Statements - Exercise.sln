@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06. World Swimming Record",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07. Shopping", "07. Shopping\07. Shopping.vcxproj", "{12B083E6-4A97-4DBD-83D2-8216C5DEA6DC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08. Lunch Break", "08. Lunch Break\08. Lunch Break.vcxproj", "{F6AFB897-4951-4237-A6DE-24914C1ACBC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{12B083E6-4A97-4DBD-83D2-8216C5DEA6DC}.Release|x64.Build.0 = Release|x64
 		{12B083E6-4A97-4DBD-83D2-8216C5DEA6DC}.Release|x86.ActiveCfg = Release|Win32
 		{12B083E6-4A97-4DBD-83D2-8216C5DEA6DC}.Release|x86.Build.0 = Release|Win32
+		{F6AFB897-4951-4237-A6DE-24914C1ACBC0}.Debug|x64.ActiveCfg = Debug|x64
+		{F6AFB897-4951-4237-A6DE-24914C1ACBC0}.Debug|x64.Build.0 = Debug|x64
+		{F6AFB897-4951-4237-A6DE-24914C1ACBC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6AFB897-4951-4237-A6DE-24914C1ACBC0}.Debug|x86.Build.0 = Debug|Win32
+		{F6AFB897-4951-4237-A6DE-24914C1ACBC0}.Release|x64.ActiveCfg = Release|x64
+		{F6AFB897-4951-4237-A6DE-24914C1ACBC0}.Release|x64.Build.0 = Release|x64
+		{F6AFB897-4951-4237-A6DE-24914C1ACBC0}.Release|x86.ActiveCfg = Release|Win32
+		{F6AFB897-4951-4237-A6DE-24914C1ACBC0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
