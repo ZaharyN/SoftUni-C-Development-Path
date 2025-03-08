@@ -1,0 +1,3 @@
+﻿  05.cpp
+D:\SoftUni\SoftUni-C-Development-Path\10. While Loop - Exercise\While Loop - Exercise\05\05.cpp(10,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  05.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\10. While Loop - Exercise\While Loop - Exercise\x64\Debug\05.exe
