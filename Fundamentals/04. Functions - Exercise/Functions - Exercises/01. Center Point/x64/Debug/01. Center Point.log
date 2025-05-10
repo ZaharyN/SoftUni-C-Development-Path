@@ -1,0 +1,3 @@
+﻿  01. Center Point.cpp
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\04. Functions - Exercise\Functions - Exercises\01. Center Point\01. Center Point.cpp(9,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  01. Center Point.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\04. Functions - Exercise\Functions - Exercises\x64\Debug\01. Center Point.exe

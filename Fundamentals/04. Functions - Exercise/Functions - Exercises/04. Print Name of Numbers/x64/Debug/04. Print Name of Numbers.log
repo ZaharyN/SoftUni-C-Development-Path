@@ -1,0 +1,4 @@
+﻿  04. Print Name of Numbers.cpp
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\04. Functions - Exercise\Functions - Exercises\04. Print Name of Numbers\04. Print Name of Numbers.cpp(36,1): warning C4715: 'PrintDecimals': not all control paths return a value
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\04. Functions - Exercise\Functions - Exercises\04. Print Name of Numbers\04. Print Name of Numbers.cpp(53,1): warning C4715: 'PrintSpecialDecimals': not all control paths return a value
+  04. Print Name of Numbers.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\04. Functions - Exercise\Functions - Exercises\x64\Debug\04. Print Name of Numbers.exe
