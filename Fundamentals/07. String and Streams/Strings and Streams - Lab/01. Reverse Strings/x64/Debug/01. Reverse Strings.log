@@ -1,0 +1,3 @@
+﻿  01. Reverse Strings.cpp
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\07. String and Streams\Strings and Streams - Lab\01. Reverse Strings\01. Reverse Strings.cpp(10,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  01. Reverse Strings.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\07. String and Streams\Strings and Streams - Lab\x64\Debug\01. Reverse Strings.exe

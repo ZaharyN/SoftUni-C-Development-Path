@@ -1,0 +1,4 @@
+﻿  03. Substring.cpp
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\07. String and Streams\Strings and Streams - Lab\03. Substring\03. Substring.cpp(13,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\07. String and Streams\Strings and Streams - Lab\03. Substring\03. Substring.cpp(18,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  03. Substring.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\07. String and Streams\Strings and Streams - Lab\x64\Debug\03. Substring.exe
