@@ -1,0 +1,4 @@
+﻿  07. Replace All.cpp
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\08. String and Streams - Exercise\Strings and Streams - Exercises\07. Replace All\07. Replace All.cpp(13,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\08. String and Streams - Exercise\Strings and Streams - Exercises\07. Replace All\07. Replace All.cpp(19,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  07. Replace All.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\08. String and Streams - Exercise\Strings and Streams - Exercises\x64\Debug\07. Replace All.exe
