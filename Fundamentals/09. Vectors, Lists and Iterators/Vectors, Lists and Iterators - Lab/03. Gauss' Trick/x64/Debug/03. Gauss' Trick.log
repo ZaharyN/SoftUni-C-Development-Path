@@ -1,0 +1,3 @@
+﻿  03. Gauss' Trick.cpp
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\03. Gauss' Trick\03. Gauss' Trick.cpp(22,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  03. Gauss' Trick.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\x64\Debug\03. Gauss' Trick.exe

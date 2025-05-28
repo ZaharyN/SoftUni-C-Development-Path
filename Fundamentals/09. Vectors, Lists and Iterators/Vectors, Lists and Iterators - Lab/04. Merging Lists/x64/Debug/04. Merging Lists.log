@@ -1,0 +1,4 @@
+﻿  04. Merging Lists.cpp
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\04. Merging Lists\04. Merging Lists.cpp(35,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\04. Merging Lists\04. Merging Lists.cpp(27,6): warning C4101: 'currentNum': unreferenced local variable
+  04. Merging Lists.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\x64\Debug\04. Merging Lists.exe
