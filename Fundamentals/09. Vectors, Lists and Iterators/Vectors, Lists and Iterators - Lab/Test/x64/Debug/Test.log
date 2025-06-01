@@ -1,0 +1,7 @@
+﻿  Test.cpp
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\Test\Test.cpp(10,20): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\Test\Test.cpp(10,20): warning C4244:         with
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\Test\Test.cpp(10,20): warning C4244:         [
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\Test\Test.cpp(10,20): warning C4244:             _Ty=int
+D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\Test\Test.cpp(10,20): warning C4244:         ]
+  Test.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Fundamentals\09. Vectors, Lists and Iterators\Vectors, Lists and Iterators - Lab\x64\Debug\Test.exe
