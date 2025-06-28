@@ -1,0 +1,4 @@
+﻿  05. Maximal Sum.cpp
+D:\SoftUni\SoftUni-C-Development-Path\Advanced\06. Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05. Maximal Sum\05. Maximal Sum.cpp(53,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\SoftUni\SoftUni-C-Development-Path\Advanced\06. Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05. Maximal Sum\05. Maximal Sum.cpp(53,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  05. Maximal Sum.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Advanced\06. Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\x64\Debug\05. Maximal Sum.exe
