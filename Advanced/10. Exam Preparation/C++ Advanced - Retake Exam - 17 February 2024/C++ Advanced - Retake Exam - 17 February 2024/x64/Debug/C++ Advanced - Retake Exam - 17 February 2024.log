@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (C++ Advanced - Retake Exam - 17 February 2024.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  C++ Advanced - Retake Exam - 17 February 2024.cpp
+  C++ Advanced - Retake Exam - 17 February 2024.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Advanced\10. Exam Preparation\C++ Advanced - Retake Exam - 17 February 2024\x64\Debug\01. School Administrator.exe

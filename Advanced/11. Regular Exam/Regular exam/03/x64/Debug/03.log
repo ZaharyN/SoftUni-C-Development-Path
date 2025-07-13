@@ -1,0 +1,4 @@
+﻿  03.cpp
+D:\SoftUni\SoftUni-C-Development-Path\Advanced\11. Regular Exam\Regular exam\03\03.cpp(31,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\SoftUni\SoftUni-C-Development-Path\Advanced\11. Regular Exam\Regular exam\03\03.cpp(35,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  03.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\Advanced\11. Regular Exam\Regular exam\x64\Debug\03.exe
