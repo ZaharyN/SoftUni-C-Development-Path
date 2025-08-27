@@ -1,0 +1,3 @@
+﻿  03.cpp
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\04. Object and Classes Advanced - Exercise\Objects and Classes Advanced - Exercise\03\03.cpp(29,42): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  03.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\04. Object and Classes Advanced - Exercise\Objects and Classes Advanced - Exercise\x64\Debug\03.exe
