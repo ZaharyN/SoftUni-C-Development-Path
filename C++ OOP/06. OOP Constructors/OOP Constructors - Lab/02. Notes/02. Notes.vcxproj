@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{77666075-5902-4bec-b498-8cc720ba9e9c}</ProjectGuid>
-    <RootNamespace>My06</RootNamespace>
+    <ProjectGuid>{c85525b4-8636-446e-a2ed-d87d626af5f8}</ProjectGuid>
+    <RootNamespace>My02Notes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,11 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="06.cpp" />
-    <ClCompile Include="Implementatio.cpp" />
+    <ClCompile Include="02. NotesMain.cpp" />
+    <ClCompile Include="SolfegeNoteNaming.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Defines.h" />
+    <ClInclude Include="NoteName.h" />
+    <ClInclude Include="SolfegeNoteNaming.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
