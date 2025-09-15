@@ -1,0 +1,8 @@
+﻿  07. Divisible by 45.cpp
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\07. OOP Constructors - Exercise\OOP Constructors - Exercise\07. Divisible by 45\BigInt.h(41,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '07.%20Divisible%20by%2045.cpp')
+  
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\07. OOP Constructors - Exercise\OOP Constructors - Exercise\07. Divisible by 45\BigInt.h(49,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '07.%20Divisible%20by%2045.cpp')
+  
+  07. Divisible by 45.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\07. OOP Constructors - Exercise\OOP Constructors - Exercise\x64\Debug\07. Divisible by 45.exe
