@@ -1,0 +1,3 @@
+﻿  01.cpp
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\11. Inheritance - Exercise\Inheritance\01\01.cpp(30,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  01.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\11. Inheritance - Exercise\Inheritance\x64\Debug\01.exe
