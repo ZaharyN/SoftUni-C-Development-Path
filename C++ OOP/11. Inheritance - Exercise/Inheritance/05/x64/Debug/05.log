@@ -1,0 +1,11 @@
+﻿  05.cpp
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\11. Inheritance - Exercise\Inheritance\05\Serialize.h(50,41): warning C4267: '=': conversion from 'size_t' to 'byte', possible loss of data
+  (compiling source file '05.cpp')
+  
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\11. Inheritance - Exercise\Inheritance\05\Serialize.h(62,55): warning C4267: '=': conversion from 'size_t' to 'byte', possible loss of data
+  (compiling source file '05.cpp')
+  
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\11. Inheritance - Exercise\Inheritance\05\Serialize.h(37,31): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '05.cpp')
+  
+  05.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\11. Inheritance - Exercise\Inheritance\x64\Debug\05.exe
