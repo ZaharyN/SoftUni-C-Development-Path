@@ -123,13 +123,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="08.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="CommandExecutor.cpp" />
+    <ClCompile Include="Field.cpp" />
+    <ClCompile Include="Snake.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Skeleton_8\Skeleton\CommandExecutor.h">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
-    </ClInclude>
-    <ClInclude Include="..\..\Skeleton_8\Skeleton\Defines.h" />
+    <ClInclude Include="CommandExecutor.h" />
+    <ClInclude Include="Defines.h" />
+    <ClInclude Include="Field.h" />
+    <ClInclude Include="Snake.h" />
+    <ClInclude Include="Structs.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

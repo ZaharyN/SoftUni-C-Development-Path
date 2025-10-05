@@ -16,9 +16,9 @@ public:
 
     void add(const Value& v);
 
-    size_t size() const;
+    std::size_t size() const;
 
-    const Value& operator[](size_t index);
+    const Value& operator[](std::size_t index);
 
     IndexedSet& operator=(const IndexedSet& other);
 

@@ -26,9 +26,9 @@ void IndexedSet::add(const Value& v)
 	}
 }
 
-size_t IndexedSet::size() const { return valuesSet.size(); }
+std::size_t IndexedSet::size() const { return valuesSet.size(); }
 
-const Value& IndexedSet::operator[](size_t index)
+const Value& IndexedSet::operator[](std::size_t index)
 {
 	// First time callling
 	if (valuesArray == nullptr && !valuesSet.empty())

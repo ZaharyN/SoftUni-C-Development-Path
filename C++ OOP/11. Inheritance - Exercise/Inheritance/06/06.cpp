@@ -68,7 +68,7 @@ int main()
     std::vector<int> indices = readIndices();
 
     IndexedSet maxSet = sets[0];
-    for (size_t i = 1; i < sets.size(); i++)
+    for (std::size_t i = 1; i < sets.size(); i++)
     {
         if (indexSum(sets[i], indices) > indexSum(maxSet, indices))
         {
@@ -76,7 +76,7 @@ int main()
         }
     }
 
-    for (size_t i = 0; i < maxSet.size(); i++)
+    for (std::size_t i = 0; i < maxSet.size(); i++)
     {
         std::cout << maxSet[i] << " ";
     }

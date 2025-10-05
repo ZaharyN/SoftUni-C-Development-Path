@@ -11,16 +11,16 @@ int main()
 	int maxSum;
 	Array<int> maxArray(0);
 
-	size_t numArrays;
+	std::size_t numArrays;
 	std::cin >> numArrays;
 
-	for (size_t i = 0; i < numArrays; i++)
+	for (std::size_t i = 0; i < numArrays; i++)
 	{
-		size_t arrSize;
+		std::size_t arrSize;
 		std::cin >> arrSize;
 		Array<int> a(arrSize);
 		int sum = 0;
-		for (size_t elementInd = 0; elementInd < arrSize; elementInd++)
+		for (std::size_t elementInd = 0; elementInd < arrSize; elementInd++)
 		{
 			int value;
 			std::cin >> value;

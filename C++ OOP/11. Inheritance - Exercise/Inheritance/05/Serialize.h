@@ -6,7 +6,7 @@
 #include<sstream>
 #include<vector>
 
-byte* serializeToMemory(const std::string& input, size_t& length)
+byte* serializeToMemory(const std::string& input, std::size_t& length)
 {
 	std::istringstream companiesIn(input);
 	std::vector<Company> companies;
@@ -61,7 +61,7 @@ byte* serializeToMemory(const std::string& input, size_t& length)
 		result[currentIndex++] = '\0';
 		result[currentIndex++] = company.getEmployees().size();
 
-		for (size_t i = 0; i < company.getEmployees().size(); i++)
+		for (std::size_t i = 0; i < company.getEmployees().size(); i++)
 		{
 			result[currentIndex++] = company.getEmployees()[i].first;
 			result[currentIndex++] = company.getEmployees()[i].second;

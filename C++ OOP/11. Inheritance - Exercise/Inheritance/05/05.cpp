@@ -21,7 +21,7 @@ int main()
 		std::getline(std::cin, line);
 	}
 
-	size_t bytesWritten;
+	std::size_t bytesWritten;
 	byte* memory = serializeToMemory(input.str(), bytesWritten);
 	for (byte* b = memory; b < memory + bytesWritten; b++)
 	{

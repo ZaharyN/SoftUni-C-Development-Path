@@ -1,2 +1,4 @@
-﻿  08.cpp
-D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\11. Inheritance - Exercise\Inheritance\08\08.cpp(4,10): error C1083: Cannot open include file: 'CommandExecutor.h': No such file or directory
+﻿  Field.cpp
+  Snake.cpp
+  Generating Code...
+  08.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\11. Inheritance - Exercise\Inheritance\x64\Debug\08.exe

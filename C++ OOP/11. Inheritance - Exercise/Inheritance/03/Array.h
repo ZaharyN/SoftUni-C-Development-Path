@@ -5,9 +5,9 @@ template<typename T>
 class Array
 {
 	T* data;
-	size_t size;
+	std::size_t size;
 public:
-	Array(size_t size) : size(size)
+	Array(std::size_t size) : size(size)
 	{
 		data = new T[size];
 	}
@@ -18,7 +18,7 @@ public:
 		this->data = new T[other.getSize()];
 		this->size = other.getSize();
 
-		for (size_t i = 0; i < other.getSize(); i++)
+		for (std::size_t i = 0; i < other.getSize(); i++)
 		{
 			this->data[i] = other.data[i];
 		}
@@ -41,7 +41,7 @@ public:
 		this->data = new T[other.getSize()];
 		this->size = other.getSize();
 
-		for (size_t i = 0; i < other.getSize(); i++)
+		for (std::size_t i = 0; i < other.getSize(); i++)
 		{
 			this->data[i] = other.data[i];
 		}
@@ -70,7 +70,7 @@ public:
 	}
 
 	// Defining [] operator
-	T& operator[](size_t index)
+	T& operator[](std::size_t index)
 	{
 		if (index >= size)
 		{
@@ -81,7 +81,7 @@ public:
 	}
 
 	// Defining [] const operator
-	const T& operator[](size_t index) const
+	const T& operator[](std::size_t index) const
 	{
 		if (index >= size)
 		{
@@ -104,7 +104,7 @@ public:
 	}
 
 	// Getter
-	const size_t getSize() const { return this->size; }
+	const std::size_t getSize() const { return this->size; }
 };
 
 
