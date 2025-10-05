@@ -13,3 +13,4 @@ package-lock.json
 *.docx
 *.doc
 *.vs/
+/C++ OOP/11. Inheritance - Exercise/Skeleton_8/Skeleton/CommandExecutor.h
