@@ -1,0 +1,9 @@
+﻿  DesertEagle.cpp
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\13. Polymorphism - Exercise\Polymorphism - Exercise\06\DesertEagle.cpp(12,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\13. Polymorphism - Exercise\Polymorphism - Exercise\06\DesertEagle.cpp(13,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DoFire.cpp
+  Glock.cpp
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\13. Polymorphism - Exercise\Polymorphism - Exercise\06\Glock.cpp(15,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\13. Polymorphism - Exercise\Polymorphism - Exercise\06\Glock.cpp(16,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  06.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\13. Polymorphism - Exercise\Polymorphism - Exercise\x64\Debug\06.exe
