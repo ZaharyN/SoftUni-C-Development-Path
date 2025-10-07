@@ -123,7 +123,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="03.cpp" />
+    <ClCompile Include="TypedStreamMain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IntStream.h" />
+    <ClInclude Include="StringStream.h" />
+    <ClInclude Include="TypedStream.h" />
+    <ClInclude Include="Vector2D.h" />
+    <ClInclude Include="VectorStream.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
