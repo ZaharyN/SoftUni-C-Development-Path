@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Swap", "Swap\Swap.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sizes", "Sizes\Sizes.vcxproj", "{3861C7B4-6AA3-4A5D-8172-8C826C5A8123}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vector-resize", "Vector-resize\Vector-resize.vcxproj", "{CCF6770D-5CE2-488E-A13F-BB2BBB35584A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{3861C7B4-6AA3-4A5D-8172-8C826C5A8123}.Release|x64.Build.0 = Release|x64
 		{3861C7B4-6AA3-4A5D-8172-8C826C5A8123}.Release|x86.ActiveCfg = Release|Win32
 		{3861C7B4-6AA3-4A5D-8172-8C826C5A8123}.Release|x86.Build.0 = Release|Win32
+		{CCF6770D-5CE2-488E-A13F-BB2BBB35584A}.Debug|x64.ActiveCfg = Debug|x64
+		{CCF6770D-5CE2-488E-A13F-BB2BBB35584A}.Debug|x64.Build.0 = Debug|x64
+		{CCF6770D-5CE2-488E-A13F-BB2BBB35584A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCF6770D-5CE2-488E-A13F-BB2BBB35584A}.Debug|x86.Build.0 = Debug|Win32
+		{CCF6770D-5CE2-488E-A13F-BB2BBB35584A}.Release|x64.ActiveCfg = Release|x64
+		{CCF6770D-5CE2-488E-A13F-BB2BBB35584A}.Release|x64.Build.0 = Release|x64
+		{CCF6770D-5CE2-488E-A13F-BB2BBB35584A}.Release|x86.ActiveCfg = Release|Win32
+		{CCF6770D-5CE2-488E-A13F-BB2BBB35584A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
