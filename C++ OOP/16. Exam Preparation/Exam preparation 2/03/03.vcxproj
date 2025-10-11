@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e3124065-9edc-41de-b62c-49b1e9a43a00}</ProjectGuid>
-    <RootNamespace>My01</RootNamespace>
+    <ProjectGuid>{39ba3161-af3d-4697-8226-3e1239675a1c}</ProjectGuid>
+    <RootNamespace>My03</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,14 +123,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01.cpp" />
-    <ClCompile Include="InputParser.cpp" />
-    <ClCompile Include="VirtualPage.cpp" />
+    <ClCompile Include="03.cpp" />
+    <ClCompile Include="AutomaticCar.cpp" />
+    <ClCompile Include="Car.cpp" />
+    <ClCompile Include="CommandExecutor.cpp" />
+    <ClCompile Include="ManualCar.cpp" />
+    <ClCompile Include="RaceTrack.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="InputParser.h" />
-    <ClInclude Include="VirtualBook.h" />
-    <ClInclude Include="VirtualPage.h" />
+    <ClInclude Include="AutomaticCar.h" />
+    <ClInclude Include="Car.h" />
+    <ClInclude Include="CommandExecutor.h" />
+    <ClInclude Include="Defines.h" />
+    <ClInclude Include="ManualCar.h" />
+    <ClInclude Include="RaceTrack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
