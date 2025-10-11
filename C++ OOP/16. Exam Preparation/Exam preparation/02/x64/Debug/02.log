@@ -1,0 +1,5 @@
+﻿  ChangesMain.cpp
+D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\16. Exam Preparation\Exam preparation\02\Includes.h(51,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ChangesMain.cpp')
+  
+  02.vcxproj -> D:\SoftUni\SoftUni-C-Development-Path\C++ OOP\16. Exam Preparation\Exam preparation\x64\Debug\02.exe
